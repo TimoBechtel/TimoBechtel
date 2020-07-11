@@ -2,7 +2,7 @@
 
 I'm Timo Bechtel.
 I develop stuff. Like this really useful VSCode extension: https://github.com/TimoBechtel/vscode-yolo  
-(No, you may *actually* find something useful here, like https://github.com/TimoBechtel/mdlaunch)
+(No, you may *actually* find something useful here, like [this](https://timobechtel.github.io/random-project/index.html))
 
 Currently I'm doing a challenge I call the "111Challenge". Posting about this on [Twitter](https://twitter.com/TimoBechtel).
 
