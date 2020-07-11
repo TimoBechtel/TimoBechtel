@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Timo.
+I'm Timo Bechtel.
 I develop stuff. Like this really useful VSCode extension: https://github.com/TimoBechtel/vscode-yolo  
 (No, you may *actually* find something useful here, like https://github.com/TimoBechtel/mdlaunch)
 
