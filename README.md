@@ -4,8 +4,6 @@ I'm Timo Bechtel.
 I develop stuff. Like this really useful VSCode extension: https://github.com/TimoBechtel/vscode-yolo  
 No, you may *actually* find something useful here, like **[this](https://timobechtel.github.io/random-project/index.html)**.
 
-Currently I'm doing a challenge I call the "111Challenge". Posting about this on [Twitter](https://twitter.com/TimoBechtel).
-
 #### 💬 Reach me here
 - [Twitter](https://twitter.com/TimoBechtel) - Posting mainly about tech stuff 💻
 - [Dribbble](https://dribbble.com/timobechtel) - Design stuff 🎨
