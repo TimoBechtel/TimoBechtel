@@ -8,7 +8,7 @@ No, you may *actually* find something useful here, like **[this](https://timobec
 - [Twitter](https://twitter.com/TimoBechtel) - Posting mainly about tech stuff 💻
 - [Dribbble](https://dribbble.com/timobechtel) - Design stuff 🎨
 - [Instagram](https://www.instagram.com/timo.bechtel/) - Photo stuff 📷
-- [Facebook](https://facebook.com/bechtel.timo) - Well.. Yeah. Maybe not over there..
+- ~Facebook~ - Well.. Yeah. Maybe not over there..
 - [LinkedIn](https://www.linkedin.com/in/timo-bechtel/) - Serious Business 🤡
 - [Website](https://timobechtel.com) - Blog 📝 (Posts are lame, but you can install it on your phone)
 
