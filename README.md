@@ -4,7 +4,7 @@ I'm Timo Bechtel.
 I develop stuff. Like this really useful VSCode extension: https://github.com/TimoBechtel/vscode-yolo  
 No, you may *actually* find something useful here, like **[this](https://timobechtel.github.io/random-project/index.html)**.
 
-I speak: DE, EN, TS, JS, TSX, CSS, CCP, PY, SH, MD, GO, SVELTE, AI, RAW, BTC
+I speak: DE, EN, TS, JS, TSX, CSS, CPP, PY, SH, MD, GO, SVELTE, AI, RAW, BTC
 
 #### 💬 Reach me here (this is an order)
 - [Twitter](https://twitter.com/TimoBechtel) - Posting mainly about tech stuff 💻
