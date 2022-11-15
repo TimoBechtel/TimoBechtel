@@ -16,7 +16,7 @@ I speak: DE, EN, TS, JS, TSX, CSS, CPP, PY, SH, MD, GO, SVELTE, AI, RAW, BTC
 
 #### 🎲 Some stuff I made that I think is kinda nice
 - [Ruumio](https://ruumio.com) - Virtual event spaces 
-- [SocketDB](https://timobechtel.github.io/socketdb/) - Simple way to synchronize data across browsers (it's **actually** easy)
+- [SocketDB](https://socketdb.com) - Simple way to synchronize data across browsers (it's **actually** easy)
 - [Palettor](https://palettor.com) - Generates color palettes based on photos
 - [Eversleep](https://eversleep.timobechtel.com) - Plan an Everyman sleep schedule (or don't)
 - [Covid Check](https://covid19.timobechtel.com) - Check if you are infected - online (still important)
