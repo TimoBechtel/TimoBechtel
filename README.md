@@ -6,18 +6,21 @@ No, you may *actually* find something useful here, like **[this](https://timobec
 
 I speak: DE, EN, TS, JS, TSX, CSS, CPP, PY, SH, MD, GO, SVELTE, AI, RAW, BTC
 
-#### 💬 Reach me here (this is an order)
-- [Twitter](https://twitter.com/TimoBechtel) - Posting mainly about tech stuff 💻
-- [Dribbble](https://dribbble.com/timobechtel) - Design stuff 🎨
-- [Instagram](https://www.instagram.com/timo.bechtel/) - Photo stuff 📷
-- ~Facebook~ - Well.. Yeah. Maybe not over there..
-- [LinkedIn](https://www.linkedin.com/in/timo-bechtel/) - Serious Business 🤡
-- [Website](https://timobechtel.com) - ~~Blog 📝~~ (Gave up on the blog for now, but the site is still quite cool)
+🏠 [Personal Website](https://timobechtel.com)
 
-#### 🎲 Some stuff I made that I think is kinda nice
-- [Ruumio](https://ruumio.com) - Virtual event spaces 
-- [SocketDB](https://socketdb.com) - Simple way to synchronize data across browsers (it's **actually** easy)
-- [Palettor](https://palettor.com) - Generates color palettes based on photos
-- [Eversleep](https://eversleep.timobechtel.com) - Plan an Everyman sleep schedule (or don't)
-- [Covid Check](https://covid19.timobechtel.com) - Check if you are infected - online (still important)
-- [BMC Creator](https://timobechtel.github.io/bmc-creator) - Business model web template
+---
+
+#### 💬 Social Media
+- <a rel="me" href="https://hachyderm.io/@timobechtel">Mastodon</a>
+- [Twitter](https://twitter.com/TimoBechtel)
+- [Dribbble](https://dribbble.com/timobechtel)
+- [Instagram](https://www.instagram.com/timo.bechtel/)
+- ~Facebook~ _(Just kidding)_
+- [LinkedIn](https://www.linkedin.com/in/timo-bechtel/)
+
+---
+
+#### 🏗️ Projects
+- [Ruumio](https://ruumio.com) - Changing the way we do remote workshops 
+- [SocketDB](https://socketdb.com) - Simple & efficient way to synchronize data across browsers
+- [events by Human Artist Interface](https://hai.events) - Creating virtual event spaces
