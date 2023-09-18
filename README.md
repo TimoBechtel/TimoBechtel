@@ -11,7 +11,6 @@ I speak: DE, EN, TS, JS, TSX, CSS, CPP, PY, SH, MD, GO, SVELTE, AI, RAW, BTC
 ---
 
 #### 💬 Social Media
-- <a rel="me" href="https://hachyderm.io/@timobechtel">Mastodon</a>
 - [Twitter](https://twitter.com/TimoBechtel) (No, I'm not calling it X)
 - [Dribbble](https://dribbble.com/timobechtel)
 - [Instagram](https://www.instagram.com/timo.bechtel/)
